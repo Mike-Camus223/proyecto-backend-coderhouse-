@@ -1,0 +1,62 @@
+[
+  {
+    "code": "CHOC123",
+    "title": "Torta de Chocolate",
+    "description": "Torta húmeda de chocolate con cobertura de ganache",
+    "price": 2500,
+    "status": true,
+    "stock": 10,
+    "category": "Pasteles",
+    "thumbnails": [
+      "https://cdn0.recetasgratis.net/es/posts/4/8/8/torta_humeda_de_chocolate_decorada_47884_orig.jpg"
+    ]
+  },
+  {
+    "code": "53cc02c1-8b3f-400a-80e4-db1052a3bc46",
+    "title": "Cheesecake de Frutos Rojos",
+    "description": "Cheesecake cremoso con base de galleta y topping de frutos rojos",
+    "price": 3200,
+    "status": true,
+    "stock": 8,
+    "category": "Postres",
+    "thumbnails": [
+      "https://i.ytimg.com/vi/jXEm9yX5G60/maxresdefault.jpg"
+    ]
+  },
+  {
+    "code": "592e3756-c593-4336-bea2-2657af37049f",
+    "title": "Brownie con Nueces",
+    "description": "Brownie chocolatoso con trozos de nuez y textura húmeda",
+    "price": 900,
+    "status": true,
+    "stock": 15,
+    "category": "Postres",
+    "thumbnails": [
+      "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480/img/recipe/ras/Assets/A8F5535E-D927-49BD-AA0C-F5779BE003BC/Derivates/60abc65972dcfadf7365a706c915e6b7d9485af4.jpg"
+    ]
+  },
+  {
+    "code": "fd73ce54-ed02-4fa1-bd3a-f978c081df2f",
+    "title": "Cupcake de Vainilla",
+    "description": "Mini pastelito de vainilla con frosting de crema",
+    "price": 400,
+    "status": true,
+    "stock": 20,
+    "category": "Pasteles",
+    "thumbnails": [
+      "https://www.splenda.com/wp-content/uploads/2020/09/keto-vanilla-cupcakes-scaled.jpg"
+    ]
+  },
+  {
+    "code": "d7ef8af8-e23b-4d0e-a872-9931d7404995",
+    "title": "Macarons surtidos",
+    "description": "Pack de macarons franceses de distintos sabores",
+    "price": 1200,
+    "status": true,
+    "stock": 25,
+    "category": "Postres",
+    "thumbnails": [
+      "https://thumbs.dreamstime.com/b/macaron-surtido-en-caja-blanca-con-sakura-floreciente-sobre-fondo-blanco-colorida-colecci%C3%B3n-de-seis-macarones-variados-una-392270264.jpg"
+    ]
+  }
+]
